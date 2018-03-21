@@ -79,4 +79,10 @@ With this library you can define a set of emoji groups, each group will be shown
 
 BTW, in the sample app, I added the feature about toggling between emoji panel and keyboard, which I think will be useful in most cases.
 
+### Todos
+Add emoji group indicator
+
+Add Gradle support
+
+
 Any advice will be appreaciate. Enjoy playing with Simple Emoijipicker.
