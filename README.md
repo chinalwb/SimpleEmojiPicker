@@ -77,4 +77,6 @@ That's it!
 ## To summary:
 With this library you can define a set of emoji groups, each group will be shown at a fragment, all groups will be shown within a ViewPager (`EmojiPanel` extends ViewPager). You can set different click listener to each emoji group, such as append the emoji to EditText or show it in a PopupWindow.
 
+BTW, in the sample app, I added the feature about toggling between emoji panel and keyboard, which I think will be useful in most cases.
+
 Any advice will be appreaciate. Enjoy playing with Simple Emoijipicker.
