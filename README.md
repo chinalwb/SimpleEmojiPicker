@@ -81,7 +81,6 @@ BTW, in the sample app, I added the feature about toggling between emoji panel a
 
 ### Todos
 Add emoji group indicator
-
 Add Gradle support
 
 
